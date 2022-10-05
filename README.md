@@ -18,5 +18,5 @@ you use the inline function, like CV(cross validation) to choose the best params
 
 <img src="./images/feature.png" width="70%" height="70%">
 
-###RUN
+### RUN
 You can directly run each step in the notebook sequentially so that you understand what each step does.
